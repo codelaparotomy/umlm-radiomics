@@ -13,5 +13,3 @@ This reporsitory contains the pipeline developed for taking CT Scans (And eventu
 - '/notebooks/': Jupyter notebooks for modeling and visualization
 - '/config/': parameter files
 - '/results/': outputs, plots, stats
-
-- 
