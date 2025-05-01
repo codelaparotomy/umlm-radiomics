@@ -1,5 +1,5 @@
 # umlm-radiomics
-This reporsitory contains the pipeline developed for taking CT Scans (And eventually MRIs) of Uveal Melanoma Liver metastases and predicting their uveal melanoma immune scores for adoptive cell transfer selection
+This repository contains the pipeline developed for taking CT Scans (And eventually MRIs) of Uveal Melanoma Liver metastases and predicting their uveal melanoma immune scores for adoptive cell transfer selection
 
 - access DICOMS, covert to NiFti
 - manual segmentation with ITK SNAP
